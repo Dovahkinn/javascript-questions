@@ -539,7 +539,7 @@ This returns `0 2 2`.
 
 ---
 
-###### 17. What's the output?
+###### ※17. What's the output?
 
 ```javascript
 function getPersonInfo(one, two, three) {
