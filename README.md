@@ -2193,7 +2193,7 @@ If the argument passed to the `padStart` method is smaller than the length of th
 
 ---
 
-###### 70. What's the output?
+###### ※70. What's the output?
 
 ```javascript
 console.log('🥑' + '💻');
