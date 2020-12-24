@@ -1984,7 +1984,7 @@ The unary operator `++` _first returns_ the value of the operand, _then incremen
 
 ---
 
-###### 64. What's the output?
+###### ※64. What's the output?
 
 ```javascript
 const value = { number: 10 };
@@ -2022,7 +2022,7 @@ The fourth time, we pass the `value` object again. `x.number` was previously mod
 
 ---
 
-###### 65. What's the output?
+###### ※65. What's the output?
 
 ```javascript
 [1, 2, 3, 4].reduce((x, y) => console.log(x, y));
