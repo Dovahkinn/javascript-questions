@@ -1753,7 +1753,7 @@ We passed the iterable `[1, 1, 2, 3, 4]` with a duplicate value `1`. Since we ca
 
 ---
 
-###### 57. What's the output?
+###### ※57. What's the output?
 
 ```javascript
 // counter.js
